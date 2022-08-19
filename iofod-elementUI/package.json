@@ -1,0 +1,20 @@
+{
+  "name": "iofod-elementui",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.2.13",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "unplugin-element-plus": "^0.4.1",
+    "vite": "^3.0.7"
+  }
+}
